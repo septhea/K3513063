@@ -1,6 +1,6 @@
 <?php
 //komentarA
-//komentarB
+//hapus oleh K3513063
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
